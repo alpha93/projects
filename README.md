@@ -1,4 +1,4 @@
-In this repository I keep the small things I make for my own learning purposes. Below is a list of things I made with some details -
+In this repository I keep the small things I make for my own learning purposes. Below is a list of things I made with some details (the executables can be found in the respective target directories, all of which require a minimum of jre-8) -
 
 Asteroids - An Asteroids game I made as my first JavaFx project. Movements are controlled by the arrow keys and the z-key fires bullets.
 
